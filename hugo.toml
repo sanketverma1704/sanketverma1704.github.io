@@ -1,0 +1,44 @@
+baseURL = 'https://msankeys963.github.io/'
+languageCode = 'en-us'
+title = 'Sanket Verma'
+theme = 'PaperMod'
+env = 'production'
+
+[params]
+defaultTheme = "auto"
+showReadingTime = true
+showPostNavLinks = true
+showCodeCopyButtons = true
+showFullTextinRSS = true
+
+#Icons for the home page
+socialIcons = [
+  { name = "github", url = "https://github.com/msankeys963" },
+  { name = "email", url = "mailto:svsanketverma5@gmail.com"},
+  { name = "ORCID", url = "https://orcid.org/0009-0008-1455-2136"},
+  { name = "linkedin", url = "https://www.linkedin.com/in/msankeys963" },
+  { name = "twitter", url = "https://twitter.com/msankeys963" },
+]
+
+# Configure the home page
+[params.profileMode]
+enabled = true #Overriding the index_profile.html file
+
+# Site-wide navigation
+[[menu.main]]
+weight = 1
+identifier = "about"
+name = "about"
+title = "about"
+url = "/about/"
+
+[[menu.main]]
+weight = 2
+identifier = "blog"
+name = "blog"
+title = "Blog"
+url = "/blog/"
+
+#Allow HTML in content pages
+[markup.goldmark.renderer]
+unsafe = true
