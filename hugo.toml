@@ -1,4 +1,4 @@
-baseURL = 'https://msankeys963.github.io/'
+baseURL = 'https://sanketverma1704.github.io/'
 languageCode = 'en-us'
 title = 'Sanket Verma'
 theme = 'PaperMod'
@@ -13,12 +13,12 @@ showFullTextinRSS = true
 
 #Icons for the home page
 socialIcons = [
-  { name = "github", url = "https://github.com/msankeys963" },
+  { name = "github", url = "https://github.com/sanketverma1704" },
   { name = "email", url = "mailto:svsanketverma5@gmail.com"},
   { name = "ORCID", url = "https://orcid.org/0009-0008-1455-2136"},
-  { name = "linkedin", url = "https://www.linkedin.com/in/msankeys963" },
+  { name = "linkedin", url = "https://www.linkedin.com/in/sanketverma1704" },
   { name = "bluesky", url = "https://bsky.app/profile/sanketverma.bsky.social"},
-  { name = "twitter", url = "https://twitter.com/msankeys963" },
+  { name = "twitter", url = "https://twitter.com/sanketverma1704" },
 ]
 
 # Configure the home page
