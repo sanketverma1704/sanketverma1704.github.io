@@ -5,9 +5,9 @@ date: 2025-01-18
 
 ### Hi everyone! 👋
 
-Recently, I've revamped my personal website and hosted on a  new domain, i.e.
-[sanketverma.com](https://sanketverma.com/). I'll be posting new stuff
-including blogs, updates, adventures, etc. here.
+Recently, I revamped my personal website and hosted it on a new domain,
+[sanketverma.com](https://sanketverma.com/). I'll be posting new stuff,
+including blogs, updates, adventures, etc., here.
 
 I've also changed my username across the web.  Earlier, I used to go by
 `MSanKeys963`, but now you can find me on the internet by:
