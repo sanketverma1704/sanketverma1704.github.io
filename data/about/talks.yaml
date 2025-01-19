@@ -1,0 +1,87 @@
+- thing: "SciPy 2024"
+  link: https://www.scipy2024.scipy.org/
+  timeline: July 2024
+  detail: "Updates on Zarr @ Tools Plenary Session"
+  description: |-
+    [Presentation], [Recording]
+
+    [Presentation]: https://docs.google.com/presentation/d/1TmWuO8e7UhN6a30sYNqj8IUBXWRckPegGOxn8eTd1kw/edit?usp=sharing
+    [Recording]: https://youtu.be/Ms6YmErw-oU?si=RwfRLl4txaY51t9R&t=489
+
+- thing: "PyCon DE and PyData Berlin 2024"
+  link: https://2024.pycon.de
+  timeline: April 2024
+  detail: "Exploring Zarr: From Fundamentals to V3.0 & Beyond"
+  description: |-
+    [Presentation], [Recording]
+
+    [Presentation]: https://doi.org/10.5281/zenodo.13984447
+    [Recording]: https://youtu.be/05uyjOP_8OU?si=icwdmHiVv6J1qmFx
+
+- thing: "CSCCE Open Source Tools Trials"
+  link: https://www.cscce.org/2023/09/21/github-and-bitergia-for-supporting-research-and-developer-communities-cscce-open-source-tools-trial-4/
+  timeline: October 2023
+  detail: "Developing specification using GitHub and ReadtheDocs"
+  description: |-
+    [Presentation], [Recording], [Case Study]
+
+    [Presentation]: https://docs.google.com/presentation/d/1HAtguA7hI7WnfRbExe_ZyeBmbSrwmViuEpm7ineL33I/edit?usp=sharing
+    [Recording]: https://youtu.be/5DNmrC1WY-4?si=FHdk_ZJs90e4a1Yh
+    [Case Study]: https://doi.org/10.5281/zenodo.12118469
+
+- thing: "NumFOCUS Summit 2023"
+  link: https://www.summit.numfocus.org/
+  timeline: September 2023
+  detail: "Zarr: Lightning Talk"
+  description: |-
+    [Presentation]
+
+    [Presentation]: https://docs.google.com/presentation/d/1MT_L1aCD0bnaVCnSjy-d-wDY3X9M0UsuFG8nRH7n8SA/edit?usp=sharing
+
+- thing: SciPy 2023
+  link: https://www.scipy2023.scipy.org/
+  timeline: July 2023
+  detail: "Maintenance and Evolution of Zarr"
+  description: |-
+    [Presentation], [Recording]
+
+    [Presentation]: https://doi.org/10.25080/gerudo-f2bc6f59-035
+    [Recording]: https://youtu.be/ny4-aQsVVJs?si=3k1wrMnuxLt0moOm
+
+- thing: "PyData Impact Scholars"
+  timeline: May 2023
+  detail: "Meetups, Networking & Data Science 101"
+  description: |-
+    [Presentation], [GitHub repo]
+
+    [Presentation]: https://docs.google.com/presentation/d/1ibd78CMyrZ7X8oXctFWbLP8_I3m8vlwm_6K5zdS2nHI/edit?usp=sharing
+    [GitHub repo]: https://github.com/sanketverma1704/presentations/tree/main/pydata_scholars_5_23
+
+- thing: "PyCon DE and PyData Berlin 2023"
+  link: https://2023.pycon.de/
+  timeline: April 2023
+  detail: "The Beauty of Zarr"
+  description: |-
+    [Presentation], [Recording]
+
+    [Presentation]: https://docs.google.com/presentation/d/1Y7Rr2BW93ckCL8fSeB3waj_krsrnv1qAW7_INIv9Mng/edit?usp=sharing
+    [Recording]: https://youtu.be/OYaMi9WnQpA?si=qoGbh36pqLejLBju
+
+- thing: "PyData Delhi 2019"
+  link: https://pydata.org/delhi2019/
+  timeline: August 2019
+  detail: "Conference Opening Notes"
+  description: |-
+    [Recording]
+
+    [Recording]: https://youtu.be/vFun01FkBlw?si=ds9mBHVFvmZFo7Ky
+
+- thing: "PyData Delhi Meetup #31"
+  link: https://www.meetup.com/pydatadelhi/events/261057427/
+  timeline: May 2019
+  detail: "What's new in ML?"
+  description: |-
+    [Presentation], [Recording]
+
+    [Presentation]: https://docs.google.com/presentation/d/1aACR4pTA6TttihvkYSkGu_sVQLQE1qm4ua1PzKnek_4/edit?usp=sharing
+    [Recording]: https://youtu.be/Bgb7q7N6CCk?si=mZc4Iy6hV-mHCAE_

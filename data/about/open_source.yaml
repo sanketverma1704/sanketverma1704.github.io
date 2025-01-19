@@ -1,0 +1,42 @@
+- thing: "Zarr"
+  link: https://github.com/zarr-developers/
+  detail: "Maintainer"
+  timeline: January 2022 - Present
+  description: |-
+    Contributing to the project by fostering the community and maintaining
+    various projects under Zarr, e.g. Zarr-Python, specification, website,
+    etc.
+
+- thing: "NumFOCUS"
+  link: https://numfocus.org/
+  detail: "Technical Board Member"
+  timeline: October 2024 - Present
+  description: |-
+    Help define NumFOCUS’s strategic direction, approve budgets, provide
+    oversight for various subcommittees, and support programs through technical
+    support for projects under the [NumFOCUS umbrella].
+
+    [NumFOCUS umbrella]: https://numfocus.org/sponsored-projects
+
+- thing: "OSSCi"
+  link: https://www.opensource.science/
+  detail: "Steering Committee Member"
+  timeline: August 2023 - Present
+  description: |-
+    OSSCi helps connect open-source developers and scientists by filling the
+    existing communication and collaboration gap through various programs. I
+    represent the open-source voice in the committee and help define multiple
+    programs and initiatives.
+
+- thing: "Scientific Python"
+  link: https://scientific-python.org/
+  detail: "SPEC Steering Committee Member"
+  timeline: May 2023 - Present
+  description: |-
+    The Scientific Python ecosystem is a federation of community-developed and
+    community-owned Python projects widely used in scientific research. I serve
+    on the [SPEC steering committee] to represent the interests of the [core
+    projects], their ecosystem, and the community.
+
+    [SPEC steering committee]: https://scientific-python.org/specs/steering-committee/
+    [core projects]: https://scientific-python.org/specs/core-projects/

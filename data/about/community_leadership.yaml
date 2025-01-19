@@ -1,0 +1,22 @@
+- thing: "PyData Delhi Meetups"
+  link: https://meetup.com/pydatadelhi/
+  timeline: 2016 - Present
+  detail: Lead Organiser
+  description: Community Leader for the largest PyData group in Asia. 9000+ members. Organised 40+ bi-weekly Data Science meetups in collaboration with several data-focused companies and startups in Delhi-NCR.
+
+- thing: "PyData Global and PyData Delhi Annual Conferences"
+  timeline: 2017 - 2022
+  detail: "Executive Chair"
+  description: Chaired annual PyData Delhi and PyData Global conferences. Spearheaded all major operations for five consecutive years. Reviewed 1500+ talks and workshop proposals. Raised $600k+ to help run the conference, support and help in sustainability, accessibility, and R&D of open-source scientific software under NumFOCUS.
+
+- thing: "NumFOCUS Summit"
+  link: https://www.nfsummit24.com/
+  timeline: 2023 - 2024
+  detail: "Co-Chair, Program Committee"
+  description: Meticulously curated the program for two consecutive years for the annual summit, hosting maintainers and leaders of the open-source community.
+
+- thing: "SciPy 2024"
+  link: https://www.scipy2024.scipy.org/
+  timeline: 2024
+  detail: "Co-Chair, Tools Plenary"
+  description: Planned, organised and ran the tools plenary session during the conference

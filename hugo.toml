@@ -35,6 +35,13 @@ url = "/about/"
 
 [[menu.main]]
 weight = 2
+identifier = "talks"
+name = "talks"
+title = "talks"
+url = "/talks/"
+
+[[menu.main]]
+weight = 3
 identifier = "blog"
 name = "blog"
 title = "Blog"
