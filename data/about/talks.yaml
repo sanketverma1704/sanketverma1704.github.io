@@ -1,3 +1,33 @@
+- thing: "IndiaFOSS 2025"
+  link: https://fossunited.org/indiafoss/2025
+  timeline: September 2025
+  detail: "Zarr: Cloud-optimised, N-dimensional, typed array storage"
+  description: |-
+    [Presentation], [Recording]
+
+    [Presentation]: https://www.canva.com/design/DAGzf5F0yiY/Np9pTjW2THP1Zem0I2l6sA/view?utm_content=DAGzf5F0yiY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b79042ddf
+    [Recording]: https://www.youtube.com/live/NyQced4oJVM?si=5oBTtG5vu24FVOY3&t=3430
+
+- thing: "SciPy 2025"
+  link: https://www.scipy2025.scipy.org/
+  timeline: July 2025
+  detail: "Learning the art of fostering open-source communities"
+  description: |-
+    [Presentation], [Recording]
+
+    [Presentation]: https://www.canva.com/design/DAGsGNHAtc4/OE1IP2b-IEzW2QdsJUuW_Q/view?utm_content=DAGsGNHAtc4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h76ad2f7b96
+    [Recording]: https://youtu.be/S90GAhmwC18?si=s5J2-6fM0YH3djK6
+
+- thing: "PyCon DE and PyData"
+  link: https://2025.pycon.de/
+  timeline: April 2025
+  detail: "From Tensors to Clouds — A Practical Guide to Zarr V3 and Zarr-Python 3"
+  description: |-
+    [Presentation], [Recording]
+
+    [Presentation]: https://docs.google.com/presentation/d/1OSQtJECLh6_KSV22BeOOnAfUZU46Fp71Ofnvxl-wtGQ/edit?usp=sharing
+    [Recording]: https://youtu.be/8FX4AXhRNMA?si=iz-dqwt8nfqn39-j
+
 - thing: "SciPy 2024"
   link: https://www.scipy2024.scipy.org/
   timeline: July 2024
